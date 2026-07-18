@@ -2,7 +2,7 @@
 
 **Computer Science (AI) @ Swinburne University, Melbourne — Class of 2027**
 
-I work on the unglamorous half of AI: containers, infrastructure-as-code, deployment pipelines, monitoring, and what a thing actually costs to run per month. Plenty of people can train a model in a notebook. Fewer can put it behind an endpoint that stays up.
+I work on the unglamorous half of AI: containers, infrastructure-as-code, deployment pipelines, monitoring, and what a thing actually costs to run per month. P
 
 Targeting junior cloud / platform engineering with an MLOps flavour.
 
