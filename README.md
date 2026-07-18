@@ -14,16 +14,6 @@ Targeting junior cloud / platform engineering with an MLOps flavour.
 
 **AI/ML** — model deployment, inference pipelines, RAG
 
-### Building
-
-| Project | What it is | Ships |
-| --- | --- | --- |
-| **Air Quality Health-Risk Platform** | Full-stack ML service predicting health risk from air quality data — containerised, deployed on AWS, infrastructure defined in Terraform | Nov 2026 |
-| **CI/CD Pipeline** | Multi-service app tested, built and deployed to AWS with zero manual steps, including rollback | Feb 2027 |
-| **MLOps Capstone** | End-to-end pipeline: S3 → training job → model registry → automated endpoint deployment → drift monitoring | May 2027 |
-
-Each repo ships with an architecture diagram, an honest README including what I'd do differently, and a running cost figure.
-
 ### Certifications
 
 - AWS Certified Solutions Architect – Associate (SAA-C03) — studying, sitting October 2026
