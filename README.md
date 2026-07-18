@@ -14,11 +14,6 @@ Targeting junior cloud / platform engineering with an MLOps flavour.
 
 **AI/ML** — model deployment, inference pipelines, RAG
 
-### Certifications
-
-- AWS Certified Solutions Architect – Associate (SAA-C03) — studying, sitting October 2026
-- HashiCorp Terraform Associate — January 2027
-
 ### Elsewhere
 
 📍 Melbourne, Australia — open to relocating within Australia
